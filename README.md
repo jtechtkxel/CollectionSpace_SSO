@@ -4,7 +4,6 @@ Single Sign On
 
 Steps required:
 
-mvn clean
-mvn install
+mvn clean install
 
 Deploy war file from target folder to tomcat server.
